@@ -7,7 +7,7 @@ body{
 .wrapper{
     width: 100%;
     height: 100vh;
-    background: url(school.jpeg);
+    background: url(./img/school.jpeg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
     min-height: 30rem;
